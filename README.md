@@ -1,2 +1,2 @@
-# .github
-VelvetEvents is where elegance meets efficiency — helping you bring your events to life without the chaos.
+# Velvet Events
+a modern event coordination platform designed to simplify the planning, management, and execution of events with precision and style.
